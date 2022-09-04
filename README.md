@@ -1,4 +1,4 @@
-<h1 align="center">😄 cmcodes</h1>
+<h1 align="center">😄 Raunaque Zamir</h1>
 <p align="center">
 	Here's my portfolio! <br/><br/>
 	<img src="https://img.shields.io/badge/Platform-Web-brightgreen.svg" alt="Platform-Web"/>
@@ -9,7 +9,7 @@
   	<img src="https://img.shields.io/badge/Framework-Bootstrap-563d7c.svg" alt="Library-Bootstrap"/> <br/><br/><br/>
 </p>
 
-<h1 align="center"><a href="https://cmcodes1.github.io/">click here to visit</a></h1>
+<h1 align="center"><a href="https://zraunaque.github.io/portfolio/">click here to visit</a></h1>
 
 <h3> Browser Compatibility </h3>
 <table>
